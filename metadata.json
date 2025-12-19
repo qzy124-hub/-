@@ -1,0 +1,9 @@
+
+{
+  "name": "Echoes of Humanity (心语星尘)",
+  "description": "A poetic visualization of human emotions across the globe. Users record their moods and thoughts via text or voice, which are analyzed by AI to create visual 'gravity' connections between people with similar experiences.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
